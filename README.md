@@ -1,6 +1,6 @@
 # GAZPAR_ESP8266
 
-Alors que la consommation journalière pouvait etre récupérée et enregistrée automatiquement sur InfluxDB grace à un script analysant le site Web de GRDF,depuis fin janvier 2023, l'introduction d'un Capcha bloque desormais cet accés automatisé.
+Alors que la consommation journalière pouvait etre récupérée et enregistrée automatiquement sur InfluxDB grace à un script analysant le site Web de GRDF,depuis fin janvier 2023, l'introduction d'un Captcha bloque desormais les accés automatisés.
 
 Il est donc necessaire de faire la mesure de consommation directement sur le compteur.
 
