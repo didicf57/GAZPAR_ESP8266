@@ -26,7 +26,9 @@ pour une consomation annuelle de 17500kWh (maison de 100m2 isolée avec eau chau
 En moyenne, 1 m3 de gaz naturel équivaut à 11 kWh. (sources GRDF / Hellowatt)
 --> volume total annuel : 1590 m3 soit 1 590 000 litres
 A raison d'une pulse tous les 10 litres cela fait 159 000 pulses par an soit 18 pulses par heure.
+
 Un pulse : ESP-01 conso 20mA pendand 100ms (reveil, increment compteur, sleep)
+
 Un dépot (tout les 5 Pulses) = 80mA pendant 2 secondes (typique) soit 3.6 dépots par heure
 Courant Sleep : 20µA (le reste du temps)
 Autonomie : Batterie 8.5Ah --> 5 ans (typique)
